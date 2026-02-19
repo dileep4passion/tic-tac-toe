@@ -33,7 +33,7 @@ Enjoy classic X vs O gameplay with a modern dark UI and glowing winning effect.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe-react-app.git
+git clone https://github.com/dileep4passion/tic-tac-toe-app.git
 cd tic-tac-toe-react-app
 ```
 
